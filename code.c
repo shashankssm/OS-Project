@@ -7,6 +7,10 @@ Prompt to user to enter the number of processes and then enter their priority, b
  as the process waits the priority of the process increase at rate of one per 2 time units of wait.
 Calculate waiting time and turnaround time for each process.*/
 
+
+
+
+
 /* NOTE : IF THE BELOW CODE IS NOT GIVING DESIERED OUTPUT THEN, 
 KINDLY REMOVE THE COMMENT MARK FROM fflush(stdin) BEFORE EVERY SCANF FUNCTION TO REMOVE BUFFER */
 
